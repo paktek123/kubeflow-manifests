@@ -68,3 +68,5 @@ resources:
 - ../apps/volumes-web-app/upstream/overlays/istio
 # User namespace
 - ../common/user-namespace/base
+# SuperAdmin Service Account
+- ../common/super-admin
