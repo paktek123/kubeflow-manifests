@@ -12,6 +12,7 @@ data:
     upstreams = "static://200"
     email_domains = [ "*" ]
     skip_auth_regex=["/dex/.*"]
+    cookie_domain=["*"]
     # ---
     # OIDC Discovery has to be skipped and login url has to be provided directly
     # in order to enable relative auth redirect.
