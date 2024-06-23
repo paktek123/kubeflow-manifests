@@ -71,4 +71,4 @@ resources:
 # SuperAdmin Service Account
 - ../common/super-admin
 # Kubeflow Pipelines
-#- ../apps/pipeline/upstream/env/cert-manager/platform-agnostic-multi-user
+- ../apps/pipeline/upstream/env/cert-manager/platform-agnostic-multi-user
